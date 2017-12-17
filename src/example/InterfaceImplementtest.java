@@ -14,7 +14,7 @@ public class InterfaceImplementtest implements TestInterface1,TestInterface2 {
 	public
 	 void m1() {
 		// TODO Auto-generated method stub
-		System.out.println(444+"hello"+444);
+		System.out.println(111+"hello"+111);
 	}
 	
 	
